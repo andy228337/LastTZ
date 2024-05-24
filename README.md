@@ -26,4 +26,5 @@
 Ссылки на выполненные задания:
 1) https://miro.com/app/board/uXjVKDwcoII=/
 2) https://miro.com/app/board/uXjVKD8pzS0=/
+
 P.S. 2 ссылки, потому что у меня нет платной версии и пришлось создавать 2 доски
